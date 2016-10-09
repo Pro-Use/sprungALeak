@@ -1,0 +1,267 @@
+TIME	TYPE	COMMAND	ARG	HOST		ARG
+0:00	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+0:00	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+0:01	PEPPER	start_animation	bplot/0wakeup	B_PLOT	bplot/	0wakeup
+0:01	PEPPER	start_animation	aplot/0wakeup	A_PLOT	aplot/	0wakeup
+0:10	PEPPER	start_animation	aplot/1hello	A_PLOT	aplot/	1hello
+0:14	PEPPER	start_animation	bplot/1howareyou	B_PLOT	bplot/	1howareyou
+0:20	PEPPER	start_animation	aplot/2great	A_PLOT	aplot/	2great
+0:23	PEPPER	start_animation	bplot/2weather	B_PLOT	bplot/	2weather
+0:25	PEPPER	start_animation	bplot/3laugh	B_PLOT	bplot/	3laugh
+0:25	PEPPER	start_animation	aplot/3laugh	A_PLOT	aplot/	3laugh
+0:27	PEPPER	start_animation	aplot/4allstop	A_PLOT	aplot/	4allstop
+0:27	PEPPER	start_animation	bplot/4allstop	B_PLOT	bplot/	4allstop
+0:33	PEPPER	start_animation	bplot/6heartsbreak(ADD MOVE)	B_PLOT	bplot/	6heartsbreak(ADD MOVE)
+0:33	PEPPER	start_animation	aplot/5movewallscreen	A_PLOT	aplot/	5movewallscreen
+0:45	PEPPER	start_animation	aplot/6.0itsablend	A_PLOT	aplot/	6.0itsablend
+0:48	PEPPER	start_animation	aplot/6normal	A_PLOT	aplot/	6normal
+0:50	PEPPER	start_animation	aplot/7turnwallscreens	A_PLOT	aplot/	7turnwallscreens
+0:50	PEPPER	start_animation	bplot/7fever	B_PLOT	bplot/	7fever
+0:53	PEPPER	start_animation	aplot/7zturnsc3	A_PLOT	aplot/	7zturnsc3
+0:53	PEPPER	start_animation	bplot/8turnscreen	B_PLOT	bplot/	8turnscreen
+0:55	PEPPER	start_animation	bplot/9liberty	B_PLOT	bplot/	9liberty
+0:57	PEPPER	start_animation	aplot/8reachout	A_PLOT	aplot/	8reachout
+1:02	PEPPER	start_animation	aplot/9thatswhat	A_PLOT	aplot/	9thatswhat
+1:06	PEPPER	start_animation	bplot/10aplotlisten	B_PLOT	bplot/	10aplotlisten
+1:11	PEPPER	start_animation	bplot/12bplotmovetocplot	B_PLOT	bplot/	12bplotmovetocplot
+1:16	PEPPER	start_animation	bplot/13cplotbad	B_PLOT	bplot/	13cplotbad
+1:18	PEPPER	start_animation	aplot/10cplotsobad	A_PLOT	aplot/	10cplotsobad
+1:25	PEPPER	start_animation	aplot/11movetocentre	A_PLOT	aplot/	11movetocentre
+1:31	PEPPER	start_animation	aplot/12makehappen	A_PLOT	aplot/	12makehappen
+1:36	PEPPER	start_animation	aplot/13user2dying	A_PLOT	aplot/	13user2dying
+1:36	PEPPER	start_animation	bplot/14user2dying	B_PLOT	bplot/	14user2dying
+1:40	PEPPER	start_animation	aplot/14screenschange	A_PLOT	aplot/	14screenschange
+1:40	PEPPER	start_animation	bplot/15screenschange	B_PLOT	bplot/	15screenschange
+1:43	PEPPER	start_animation	aplot/15whatfacts	A_PLOT	aplot/	15whatfacts
+1:43	PEPPER	start_animation	bplot/16movetwardsscreen	B_PLOT	bplot/	16movetwardsscreen
+1:45	PEPPER	start_animation	bplot/17checkscreens	B_PLOT	bplot/	17checkscreens
+1:46	PEPPER	start_animation	bplot/18bplotanxious	B_PLOT	bplot/	18bplotanxious
+1:46	PEPPER	start_animation	aplot/16checkscreen	A_PLOT	aplot/	16checkscreen
+1:52	PEPPER	start_animation	aplot/17summitdon'tknow	A_PLOT	aplot/	17summitdon'tknow
+1:56	PEPPER	start_animation	aplot/17zAplotmoves5cm	A_PLOT	aplot/	17zAplotmoves5cm
+1:57	PEPPER	start_animation	aplot/18anyonelsein	A_PLOT	aplot/	18anyonelsein
+1:59	PEPPER	start_animation	bplot/19screensconfirmed	B_PLOT	bplot/	19screensconfirmed
+2:02	PEPPER	start_animation	aplot/19happenedfast	A_PLOT	aplot/	19happenedfast
+2:04	PEPPER	start_animation	bplot/20nowhere	B_PLOT	bplot/	20nowhere
+2:06	PEPPER	start_animation	aplot/20possibilitysummit (ADD TURN)	A_PLOT	aplot/	20possibilitysummit (ADD TURN)
+2:06	PEPPER	start_animation	bplot/23possibilitysummit (ADDTURN)	B_PLOT	bplot/	23possibilitysummit (ADDTURN)
+2:11	PEPPER	start_animation	aplot/21noserious	A_PLOT	aplot/	21noserious
+2:16	PEPPER	start_animation	bplot/25affectingtravel(ADD MOVE)	B_PLOT	bplot/	25affectingtravel(ADD MOVE)
+2:18	PEPPER	start_animation	aplot/24wheresee	A_PLOT	aplot/	24wheresee
+2:20	PEPPER	start_animation	aplot/25Aplotanxious	A_PLOT	aplot/	25Aplotanxious
+2:20	PEPPER	start_animation	bplot/26bplotanxious	B_PLOT	bplot/	26bplotanxious
+2:29	PEPPER	start_animation	aplot/26Aplotshakebody	A_PLOT	aplot/	26Aplotshakebody
+2:29	PEPPER	start_animation	bplot/27bplotshakebody	B_PLOT	bplot/	27bplotshakebody
+2:30	PEPPER	start_animation	aplot/28Aplotshit (ADD TURN)	A_PLOT	aplot/	28Aplotshit (ADD TURN)
+2:30	PEPPER	start_animation	bplot/28turnstoAplot	B_PLOT	bplot/	28turnstoAplot
+2:31	PEPPER	start_animation	bplot/29bplotshit	B_PLOT	bplot/	29bplotshit
+2:33	PEPPER	start_animation	bplot/31whattheysay (ADD MOVE)	B_PLOT	bplot/	31whattheysay (ADD MOVE)
+2:33	PEPPER	start_animation	aplot/29movestocentre	A_PLOT	aplot/	29movestocentre
+2:35	PEPPER	start_animation	aplot/30theusers	A_PLOT	aplot/	30theusers
+2:36	PEPPER	start_animation	aplot/31Aplotinnocent	A_PLOT	aplot/	31Aplotinnocent
+2:38	PEPPER	start_animation	bplot/32carefulthefountain	B_PLOT	bplot/	32carefulthefountain
+2:40	PEPPER	start_animation	aplot/32firewall	A_PLOT	aplot/	32firewall
+2:40	PEPPER	start_animation	bplot/33bplotalienated	B_PLOT	bplot/	33bplotalienated
+2:42	PEPPER	start_animation	aplot/33aplotconfident	A_PLOT	aplot/	33aplotconfident
+2:55	PEPPER	start_animation	aplot/39Aplotwhausted	A_PLOT	aplot/	39Aplotwhausted
+2:58	PEPPER	start_animation	bplot/38Bplothappy (ADD TURN)	B_PLOT	bplot/	38Bplothappy (ADD TURN)
+2:59	PEPPER	start_animation	bplot/39shesbackrequest	B_PLOT	bplot/	39shesbackrequest
+3:01	PEPPER	start_animation	aplot/40Aplotenthusiastic	A_PLOT	aplot/	40Aplotenthusiastic
+3:04	PEPPER	start_animation	bplot/40Bplotlistening	B_PLOT	bplot/	40Bplotlistening
+3:15	PEPPER	start_animation	aplot/42aplotturn	A_PLOT	aplot/	42aplotturn
+3:17	PEPPER	start_animation	bplot/41Bplotdontunderstand	B_PLOT	bplot/	41Bplotdontunderstand
+3:18	PEPPER	start_animation	aplot/44aplotdontunderstand	A_PLOT	aplot/	44aplotdontunderstand
+3:22	PEPPER	start_animation	aplot/45aplotshakebody	A_PLOT	aplot/	45aplotshakebody
+3:22	PEPPER	start_animation	bplot/42Bplotshakebody	B_PLOT	bplot/	42Bplotshakebody
+3:23	PEPPER	start_animation	bplot/43whatdidshewhisper	B_PLOT	bplot/	43whatdidshewhisper
+3:23	PEPPER	start_animation	aplot/46aplotmoves2bplot	A_PLOT	aplot/	46aplotmoves2bplot
+3:25	PEPPER	start_animation	aplot/49helpme	A_PLOT	aplot/	49helpme
+2:35	PEPPER	start_animation	bplot/44movestocentreofportraitscreen	B_PLOT	bplot/	44movestocentreofportraitscreen
+3:30	PEPPER	start_animation	aplot/49zaplotturns	A_PLOT	aplot/	49zaplotturns
+3:32	PEPPER	start_animation	aplot/50.0waitshesaid	A_PLOT	aplot/	50.0waitshesaid
+3:37	PEPPER	start_animation	bplot/45turnstoupstagescreen	B_PLOT	bplot/	45turnstoupstagescreen
+3:39	PEPPER	start_animation	aplot/50Aplotturnportraitscreen	A_PLOT	aplot/	50Aplotturnportraitscreen
+3:39	PEPPER	start_animation	bplot/46turnsheadtoC3	B_PLOT	bplot/	46turnsheadtoC3
+3:40	PEPPER	start_animation	bplot/47severalscreenconfirming	B_PLOT	bplot/	47severalscreenconfirming
+3:43	PEPPER	start_animation	aplot/51movesback	A_PLOT	aplot/	51movesback
+3:48	PEPPER	start_animation	aplot/52whatsthis	A_PLOT	aplot/	52whatsthis
+3:48	PEPPER	start_animation	bplot/49Bplotyouknowwhat (ADD MOVE)	B_PLOT	bplot/	49Bplotyouknowwhat (ADD MOVE)
+3:49	PEPPER	start_animation	bplot/50changedsomething	B_PLOT	bplot/	50changedsomething
+3:57	PEPPER	start_animation	aplot/53aplotstops	A_PLOT	aplot/	53aplotstops
+4:00	PEPPER	start_animation	aplot/55aplotschoked(ADD TURN)	A_PLOT	aplot/	55aplotschoked(ADD TURN)
+4:05	PEPPER	start_animation	aplot/56aplotangry	A_PLOT	aplot/	56aplotangry
+4:06	PEPPER	start_animation	aplot/57human	A_PLOT	aplot/	57human
+4:19	PEPPER	start_animation	aplot/58movestoc6	A_PLOT	aplot/	58movestoc6
+4:19	PEPPER	start_animation	bplot/51Bplotcount5	B_PLOT	bplot/	51Bplotcount5
+4:25	PEPPER	start_animation	aplot/59aplotplease	A_PLOT	aplot/	59aplotplease
+4:29	PEPPER	start_animation	aplot/61wecantanymore	A_PLOT	aplot/	61wecantanymore
+4:31	PEPPER	start_animation	bplot/55privacychannelworkflow + (ADD TURN&MOVE)	B_PLOT	bplot/	55privacychannelworkflow + (ADD TURN&MOVE)
+4:34	PEPPER	start_animation	aplot/62movec3-c5	A_PLOT	aplot/	62movec3-c5
+4:38	PEPPER	start_animation	aplot/63turnsoutpermission	A_PLOT	aplot/	63turnsoutpermission
+4:40	PEPPER	start_animation	bplot/56movebetweenc2-c3	B_PLOT	bplot/	56movebetweenc2-c3
+4:43	PEPPER	start_animation	aplot/64itsthewaymade	A_PLOT	aplot/	64itsthewaymade
+4:49	PEPPER	start_animation	aplot/65aplotcalmdown	A_PLOT	aplot/	65aplotcalmdown
+4:51	PEPPER	start_animation	aplot/66icanhearhangon	A_PLOT	aplot/	66icanhearhangon
+4:53	PEPPER	start_animation	bplot/57Bplotseesomething	B_PLOT	bplot/	57Bplotseesomething
+4:57	PEPPER	start_animation	bplot/58shesdead	B_PLOT	bplot/	58shesdead
+4:59	PEPPER	start_animation	aplot/67aplotthink	A_PLOT	aplot/	67aplotthink
+5:03	PEPPER	start_animation	bplot/59turnstoAplot	B_PLOT	bplot/	59turnstoAplot
+5:04	PEPPER	start_animation	bplot/60failedLiberty	B_PLOT	bplot/	60failedLiberty
+5:06	PEPPER	start_animation	aplot/68idontnotallscreens	A_PLOT	aplot/	68idontnotallscreens
+5:08	PEPPER	start_animation	aplot/69aplotmovesnextbplot	A_PLOT	aplot/	69aplotmovesnextbplot
+5:10	PEPPER	start_animation	bplot/62lookscreens	B_PLOT	bplot/	62lookscreens
+5:11	PEPPER	start_animation	aplot/70turnstoportraitscreens	A_PLOT	aplot/	70turnstoportraitscreens
+5:12	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+5:12	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+5:17	PEPPER	start_animation	71.0wwhatthe			71.0wwhatthe
+5:18	PEPPER	start_animation	63hell			63hell
+5:19	PEPPER	start_animation	71.1attack			71.1attack
+5:14	PEPPER	start_animation	aplot/72aplotarmsup(ADD TURN)	A_PLOT	aplot/	72aplotarmsup(ADD TURN)
+5:14	PEPPER	start_animation	bplot/65aplotarmsup (ADD TURN)	B_PLOT	bplot/	65aplotarmsup (ADD TURN)
+5:20	PEPPER	start_animation	aplot/73movestoleftwall	A_PLOT	aplot/	73movestoleftwall
+5:20	PEPPER	start_animation	bplot/66movetoL3	B_PLOT	bplot/	66movetoL3
+5:35	PEPPER	start_animation	aplot/74lookatscreens	A_PLOT	aplot/	74lookatscreens
+5:35	PEPPER	start_animation	bplot/67lookscreensl3-l4-l5	B_PLOT	bplot/	67lookscreensl3-l4-l5
+5:51	PEPPER	start_animation	bplot/68feelsoreal	B_PLOT	bplot/	68feelsoreal
+5:53	PEPPER	start_animation	aplot/75itsrealoverhere	A_PLOT	aplot/	75itsrealoverhere
+5:56	PEPPER	start_animation	aplot/76movestor3-r4	A_PLOT	aplot/	76movestor3-r4
+6:15	PEPPER	start_animation	aplot/77lookatcplot	A_PLOT	aplot/	77lookatcplot
+6:17	PEPPER	start_animation	aplot/78sometimesmelt	A_PLOT	aplot/	78sometimesmelt
+6:33	PEPPER	start_animation	bplot/69murdercrow	B_PLOT	bplot/	69murdercrow
+6:37	PEPPER	start_animation	aplot/79movetor1-c6	A_PLOT	aplot/	79movetor1-c6
+6:37	PEPPER	start_animation	bplot/70movesbetweenl3-l4-l5	B_PLOT	bplot/	70movesbetweenl3-l4-l5
+6:50	PEPPER	start_animation	aplot/80aplotsurprise	A_PLOT	aplot/	80aplotsurprise
+6:50	PEPPER	start_animation	bplot/71Bplotsurprised	B_PLOT	bplot/	71Bplotsurprised
+7:03	PEPPER	start_animation	aplot/81idonttellyou	A_PLOT	aplot/	81idonttellyou
+7:03	PEPPER	start_animation	bplot/72turnstoAplot	B_PLOT	bplot/	72turnstoAplot
+7:05	PEPPER	start_animation	bplot/73justtell	B_PLOT	bplot/	73justtell
+7:09	PEPPER	start_animation	aplot/82alleged	A_PLOT	aplot/	82alleged
+7:11	PEPPER	start_animation	bplot/74thisgoodpeople	B_PLOT	bplot/	74thisgoodpeople
+7:14	PEPPER	start_animation	aplot/83thisbadpeople	A_PLOT	aplot/	83thisbadpeople
+7:23	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+7:23	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+7:26	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+7:26	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+7:30	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+7:30	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+7:33	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+7:38	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+7:38	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+7:41	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+7:41	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+7:42	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+7:42	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+7:43	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+7:43	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+7:50	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+7:54	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+7:52	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+7:58	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+8:02	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+8:04	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+8:07	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+8:08	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+8:11	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+8:13	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+8:16	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+8:16	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+8:19	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+8:22	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+8:24	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+8:26	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+8:30	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+8:30	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+8:31	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+8:35	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+8:35	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+8:42	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+8:42	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+8:43	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+8:46	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+8:49	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+8:53	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+8:55	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+8:57	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+8:59	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+9:02	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+9:04	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+9:04	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+9:08	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+9:08	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+9:11	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+9:12	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+9:14	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+9:17	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+9:21	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+9:25	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+9:26	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+9:27	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+9:30	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+9:30	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+9:40	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+9:43	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+9:43	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+9:52	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+9:53	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+9:55	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+9:55	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+9:59	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+9:59	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+10:10	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+10:10	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+10:35	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+10:35	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+10:44	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+10:45	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+10:47	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+10:49	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+11:00	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+11:00	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+11:02	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+11:02	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+11:04	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+11:07	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+11:10	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+	PEPPER	start_animation				
+11:15	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+11:15	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+12:12	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+12:12	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+13:25	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+13:25	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+13:29	PEPPER	start_animation	aplot/1hello	A_PLOT	aplot/	1hello
+13:32	PEPPER	start_animation	bplot/1howareyou	B_PLOT	bplot/	1howareyou
+13:38	PEPPER	start_animation	aplot/2great	A_PLOT	aplot/	2great
+13:41	PEPPER	start_animation	bplot/2weather	B_PLOT	bplot/	2weather
+13:43	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+13:43	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+13:44	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+13:44	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+13:46	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+13:46	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+13:55	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+13:58	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+14:06	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+14:07	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+14:10	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+14:11	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+14:18	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+14:18	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+14:24	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+14:30	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+14:35	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+14:35	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+14:45	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+14:55	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+14:56	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+14:57	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+15:05	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+15:08	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+15:11	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+15:12	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+15:15	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+15:16	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+15:21	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+15:27	PEPPER	start_animation	aplot/	A_PLOT	aplot/	
+15:27	PEPPER	start_animation	bplot/	B_PLOT	bplot/	
+15:28	PEPPER	start_animation				
