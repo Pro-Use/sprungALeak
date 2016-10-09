@@ -28,7 +28,7 @@ def sndMsg(cmdStr, IPlist, future):
 #		c.start()
 
 startTime = datetime.now()
-wait = -1
+wait = -0.00001
 for i in range(0, len(commands)):
 	try:
 		newWait = str(commands[i][0])[2:-1]
@@ -46,6 +46,8 @@ for i in range(0, len(commands)):
 		except:
 			pis = str(commands[i][4])[2:-1]+','
 			sndMsg(cmd, pis, future)
+	except(KeyboardInterrupt, SystemExit):
+		raise
 	except:
 		row = i + 2
 		print("\trow:"+str(row))
